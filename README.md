@@ -22,14 +22,7 @@ Researcher specializing in the intersection of **AI** and **Finance** 📊, with
   - Deep Learning architectures
   - Time series forecasting
 
-## Current Projects
 
-### FinSentrix
-Advanced sentiment analysis platform for financial markets:
-- Multi-language support
-- Event detection system
-- Real-time market analysis
-- Rumor analysis framework
 
 <a href="https://github.com/Timamousavi/finsentrix">
   <img src="https://img.shields.io/badge/FinSentrix-FFD1DC?style=for-the-badge" alt="FinSentrix"/>
