@@ -24,12 +24,6 @@ Researcher interested in the intersection of **AI** and **Finance** 📊, with a
 
 
 
-<a href="https://github.com/Timamousavi/finsentrix">
-  <img src="https://img.shields.io/badge/FinSentrix-FFD1DC?style=for-the-badge" alt="FinSentrix"/>
-</a>
-
-
-
 ---
 
 <div align="center">
