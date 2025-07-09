@@ -11,7 +11,7 @@
 
 ## About Me
 
-Researcher interested in the intersection of **AI** and **Finance** 📊, with a focus on behavioral finance market and sentiment analysis. 
+Researcher interested in the intersection of **AI** and **Finance** 📊, with a focus on behavioral finance and market sentiment analysis. 
 - **Behavioral Finance & Market Analysis** 📈
   - Sentiment analysis in financial markets
   - Investor behavior modeling
