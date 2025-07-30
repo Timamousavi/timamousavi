@@ -22,6 +22,12 @@ Researcher interested in the intersection of **AI** and **Finance** 📊, with a
   - Deep Learning architectures
   - Time series forecasting
 
+- **AI Governance & Safety** 🧷
+  - Algorithmic Bias & Manipulation
+  - Human-AI Interaction & Trust
+  - Regulatory Frameworks for FinTech
+
+
 
 
 ---
